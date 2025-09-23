@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Aidan"
+	],
+	"copyright": "Copyright © 2025, Aidan",
+	"description": "A Chess app coded in D.",
+	"license": "MIT",
+	"name": "d_chess"
+}
